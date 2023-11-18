@@ -121,9 +121,9 @@ class DataPermissionsTable {
 	
 	return $response;
 		 }
-	
-	
 }
+
+add_shortcode('software_allowed', 'softwareAllowedTable');
 
 new DataPermissionsTable;
 
