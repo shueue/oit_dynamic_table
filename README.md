@@ -13,12 +13,12 @@ Paste shortcode [software_allowed].
 
 ### Advanced Custom Fields (ACF) Required Field Groups
 
-- Guide to Research Info – Which Software is Allowed?
-  allowed_software
-  disallowed_software
-        
-- Guide to Research Info – Software
-  -      if_oried
-        if_irb
-        if_deidentify
-        if_access
+- **Guide to Research Info – Which Software is Allowed?**
+  - `allowed_software`
+  - `disallowed_software`
+
+- **Guide to Research Info – Software**
+  - `if_oried`
+  - `if_irb`
+  - `if_deidentify`
+  - `if_access`
