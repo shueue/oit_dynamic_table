@@ -6,5 +6,9 @@ The provided PHP script is designed to generate a dynamic table showcasing permi
 
 ## Installation
 
-This code is a modification of the existing file >templates/service-research.php
+Place data-permissions-table.zip in the plugin installation box. Activate plugin.
 
+## Use
+Paste shortcode [software_allowed].
+
+## Advanced Custom Fields (ACF) Required Field Groups
